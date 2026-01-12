@@ -6,6 +6,6 @@ app = FastAPI()
 
 @app.get("/")
 async def read_main():
-    return {"msg": "DEPLOIMENT SUR LE NAMESPACE TUTU"}
+    return {"msg": "FIN DE LA MC GITOPS DE"}
 
 
